@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd4011d3-f7ad-408b-9305-02321d642886" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/.idea/modules/Hero-Squad.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/src/main/java/models/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/src/main/java/models/Squad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squad/src/main/resources/public.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My first java project/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My first java project/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJO/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJO/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJO/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZ/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZ/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZ/images/KRU.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZ/javascript/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZ/javascript/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friend-letter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friend-letter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friend-letter/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friendletter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friendletter/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/git-form/git-form.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/git-form/git-form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/git-form/git-form.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/git-form/git-form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/navbar/navbar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/navbar/navbar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/repo.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/repo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/search-gh/gh-search.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/search-gh/gh-search.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/user.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/app/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gh-search/gh-search/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/app/.idea/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/java/models/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/java/models/Squad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/public.css/bootstrap-override.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/public.css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/public.css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/public.css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/public.css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/templates/SuccessHero.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/templates/SuccessSquad.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/templates/hero.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/templates/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heroku-squad-hero/src/main/resources/templates/layout.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jumia-clone-master/..." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jumia-clone-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jumia-clone-master/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jumia-clone-master/img/me.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jumia-clone-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jumia-clone-master/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-project/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-project/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-engine/Engine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../su." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud282-master/Project 1 - TicTacToe/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ud282-master/Project 1 - TicTacToe/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/classes/java/main/Kitten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/Kitten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtualpets/src/main/java/person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/models/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/models/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/models/EndangeredAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/models/NormalAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/models/Ranger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/java/models/Sighting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/binoculars.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/index.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/logo_nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/logo_original.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/logo_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/tiger.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/view.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/public/images/wide-nature.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/all-rangers.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/animals-endangered.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/animals-normal.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/layout.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/ranger-details.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/sighting-form.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/sighting-location-details.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/sighting-locations.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/main/resources/templates/success.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/test/java/DatabaseRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/test/java/EndangeredAnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/test/java/NormalAnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/test/java/RangerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker-master/src/test/java/SightingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildlife-tracker/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/gradle">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21rhn1eOfq47Z6aQbnprCI3k34f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../caesar-cipher-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="ceaser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ceasar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ceasar" />
+      <module name="ceaser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ceaser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ceaser" />
+      <module name="ceaser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Ceasar" />
+        <item itemvalue="Application.Ceaser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd4011d3-f7ad-408b-9305-02321d642886" name="Default Changelist" comment="" />
+      <created>1638705276797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638705276797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="76" width="847" height="691" key="#Project_Structure" timestamp="1638878813334">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="565" y="76" width="847" height="691" key="#Project_Structure/0.0.1600.852@0.0.1600.852" timestamp="1638878813334" />
+    <state x="583" y="184" width="424" height="491" key="FileChooserDialogImpl" timestamp="1638790849564">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="583" y="184" width="424" height="491" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1638790849564" />
+    <state width="1544" height="138" key="GridCell.Tab.0.bottom" timestamp="1638877611849">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="138" key="GridCell.Tab.0.bottom/0.0.1600.852@0.0.1600.852" timestamp="1638877611849" />
+    <state width="1544" height="138" key="GridCell.Tab.0.center" timestamp="1638877611849">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="138" key="GridCell.Tab.0.center/0.0.1600.852@0.0.1600.852" timestamp="1638877611849" />
+    <state width="1544" height="138" key="GridCell.Tab.0.left" timestamp="1638877611848">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="138" key="GridCell.Tab.0.left/0.0.1600.852@0.0.1600.852" timestamp="1638877611848" />
+    <state width="1544" height="138" key="GridCell.Tab.0.right" timestamp="1638877611849">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="138" key="GridCell.Tab.0.right/0.0.1600.852@0.0.1600.852" timestamp="1638877611849" />
+    <state width="721" height="183" key="GridCell.Tab.1.bottom" timestamp="1638705995158">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="721" height="183" key="GridCell.Tab.1.bottom/0.0.1600.852@0.0.1600.852" timestamp="1638705995158" />
+    <state width="721" height="183" key="GridCell.Tab.1.center" timestamp="1638705995158">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="721" height="183" key="GridCell.Tab.1.center/0.0.1600.852@0.0.1600.852" timestamp="1638705995158" />
+    <state width="721" height="183" key="GridCell.Tab.1.left" timestamp="1638705995158">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="721" height="183" key="GridCell.Tab.1.left/0.0.1600.852@0.0.1600.852" timestamp="1638705995158" />
+    <state width="721" height="183" key="GridCell.Tab.1.right" timestamp="1638705995158">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="721" height="183" key="GridCell.Tab.1.right/0.0.1600.852@0.0.1600.852" timestamp="1638705995158" />
+    <state x="0" y="29" width="1372" height="823" key="new project wizard" timestamp="1638878111475">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="0" y="29" width="1372" height="823" key="new project wizard/0.0.1600.852@0.0.1600.852" timestamp="1638878111475" />
+  </component>
+</project>
